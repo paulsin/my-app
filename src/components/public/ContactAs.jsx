@@ -11,7 +11,7 @@ const ContactAs = () => {
   return (
     <>
     <Navbar/>
-    <div class="container text-center p-5">
+    <div class="container text-center p-5 mt-5">
         <img src={logo_agentfree} width="280px" height="180px"/>
     </div>
     <div class="container  p-3">
